@@ -1,0 +1,8 @@
+{
+  "environment": {
+    "SES_REGION": "us-west-2",
+    "FROM_NAME": "mk_challenge",
+    "FROM_EMAIL": "jaehuh86@yahoo.com",
+    "TO_EMAIL": "jaehuh86@yahoo.com"
+  }
+}
